@@ -3,3 +3,5 @@ pandas
 prophet==1.1.4
 matplotlib
 numpy
+pystan
+holidays==0.21
